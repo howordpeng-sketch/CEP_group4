@@ -1,2 +1,24 @@
 # CEP_group4
-Artificial Intelligence, or AI, is changing the way people work. While some jobs may disappear, AI is also creating new careers. To succeed in the future, people will need to learn new skills and work together with AI.
+## Jobs AI May Replace, New Careers Created by AI
+
+## Team Members
+
+- Haowen Peng
+- Aayou
+
+## Topic Summary
+
+This presentation explains the Jobs AI May Replace, New Careers Created by AI
+
+
+
+## Team Contributions
+
+### Haowen Peng
+- Research
+- Video Script
+- README Documentation
+
+### Ayou
+- Slide Design and layout
+- Video Recording and Narration
