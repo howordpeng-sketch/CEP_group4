@@ -4,7 +4,7 @@
 ## Team Members
 
 - Haowen Peng
-- Aayou
+- Aayush Sherchan
 
 ## Topic Summary
 
