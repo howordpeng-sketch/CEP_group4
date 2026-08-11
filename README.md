@@ -23,4 +23,4 @@ This presentation explains the Jobs AI May Replace, New Careers Created by AI
 - Slide Design and layout
 - Video Recording and Narration
 
-## [YouTube Video]https://youtu.be/fw-sDlx-cFo
+## [YouTube Video][https://youtu.be/fw-sDlx-cFo](https://youtu.be/3NbvhJrOrX8)
