@@ -2,7 +2,7 @@
 
 ## Prompt Used
 
-Evaluate our CEP146 AI current-event project titled “Jobs AI May Replace.”
+Evaluate our CEP146 AI current-event project titled “Jobs AI May Replace."
 
 Our project explains how AI and automation may affect jobs such as customer service representatives, cashiers/retail workers, and drivers. We explain that AI is more likely to automate specific routine tasks than completely eliminate every job. Our presentation uses current 2025–2026 research and discusses how workers may need to adapt their skills as AI becomes more common.
 
