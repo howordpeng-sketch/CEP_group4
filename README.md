@@ -19,7 +19,7 @@ This presentation explains the Jobs AI May Replace, New Careers Created by AI
 - Video Script
 - README Documentation
 
-### Ayou
+### Aayush Sherchan
 - Slide Design and layout
 - Video Recording and Narration
 
